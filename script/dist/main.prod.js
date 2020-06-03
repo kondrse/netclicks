@@ -1,0 +1,1 @@
+"use strict";var number1=1,number2=30,string1="error",string2="good work";number1<=number2?console.log(string1):console.log(string2);for(var i=0;i<number2;i++)console.log(i);
